@@ -21,4 +21,6 @@ i am contributing.
 this si conclusion
 
 ## Copy right
+all copy rights are reserved
+
 
