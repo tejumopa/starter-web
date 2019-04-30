@@ -13,5 +13,6 @@ We are discussing about the comparisions of working directory and staging area.
 Now we are in deployment stage
 
 ## How to conttribute
+i am contributing.
 
 ## Conclusion
