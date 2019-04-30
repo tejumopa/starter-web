@@ -3,12 +3,12 @@
 
 # TEAM
 
-    tejaswini team new
+    new tejaswini team 
 
 
 # THANKS
 
-    thanks to all
+    thanks teachers to all
 
 # TECHNOLOGY COLOPHON
 
